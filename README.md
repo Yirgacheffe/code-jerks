@@ -128,3 +128,8 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 ## Blogs and Tutorials
 
 * [The Code Whisperer](https://blog.thecodewhisperer.com) - A blog website talk about coding, TDD or something.
+* [buildkite](https://buildkite.com) - Lightning fast testing and delivery for all your software projects.
+* [Pact](https://docs.pact.io) - Pact is a code-first tool for testing HTTP and message integrations using contract tests.
+* [eventuate](https://eventuate.io) - Eventuate: an open-source platform for developing microservices.
+* [Pivotal blog](https://tanzu.vmware.com/blog) - Pivotal blog and resources for software development.
+* [flywaydb](https://flywaydb.org) - Version control for your database Robust schema evolution across all your environments. With ease, pleasure, and plain SQL.
