@@ -17,7 +17,19 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 
 ## CloudNative and ServiceMesh
 
-* [Let's Encrypt](https://letsencrypt.org) - Free SSL/TLS Certificates.
+* [Let's Encrypt](https://letsencrypt.org) - Free SSL/TLS Certificates. A nonprofit Certificate Authority providing TLS certificates to 260 million websites.
+* [Web Security](https://pragmaticwebsecurity.com) - Get better at security with Pramatic Web Security.
+* [Tilt](https://tilt.dev) - Productivity for teams building Kubernetes apps.
+* [Helidon](https://helidon.io) - Lightweight. Fast. Crafted for Microservices. 
+* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Azure architecture docs.
+* [Serverless](https://www.serverless.com) - Serverless framework, easily build apps that auto-scale on low cost.
+* [cncf/landscape](https://github.com/cncf/landscape) - The CNCF Cloud Native Landscape Project is intended as a map through the previously uncharted terrain of cloud native technologies.
+* [Ibm microprofile](https://github.com/IBM/Java-MicroProfile-on-Kubernetes/blob/master/README-cn.md) - Demo for microprofile on K8s.
+* [Weave works](https://www.weave.works/product/enterprise-kubernetes-platform/) - Weave work official website, K8s and Istio.
+* [The New Stack](https://thenewstack.io/category/microservices/) - Microservice category on 'The New Stack'.
+* [Knative](https://knative.dev/docs/) - Kubernetes components for event-driven and serverless.
+* [Cloud Foundry](https://www.cloudfoundry.cn) - Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes.
+
 
 ## API Design
 
