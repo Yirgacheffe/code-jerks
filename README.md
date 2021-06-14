@@ -66,6 +66,17 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 ## Architecture and System Design
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
+* [Coding University](https://github.com/jwasham/coding-interview-university) - A multi-month study for software developer. 
+* [awesome list](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
+* [httperf](https://github.com/httperf/httperf) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
+* [Structurizr_C4](https://www.codingthearchitecture.com) - C4 model architecture design draw tool.
+* [c4 model](https://c4model.com) - C4 model official website.
+* [12factor](https://12factor.net) - Cloud native 12 factors to building software-as-a-service apps.
+* [adr.github.io](https://adr.github.io) - An Architectural Decision (AD) is a software design choice that addresses a functional or non-functional requirement that is architecturally significant.
+* [adr records](https://github.com/joelparkerhenderson/architecture-decision-record) - An architectural decision record (ADR) is a document that captures an important architectural decision made along with its context and consequences.
+* [ArchUnit](https://www.archunit.org) - ArchUnit is a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework. 
+* [git-ignore](https://github.com/github/gitignore) - A collection of '.gitignore' templates.
+* [git-tips](https://github.com/git-tips/tips) - A collection of git-tips repository. 
 
 ## Golang
 
