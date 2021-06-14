@@ -43,6 +43,25 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 ## API Design
 
 * [GraphQL](https://www.howtographql.com) - The Fullstack Tutorial for GraphQL
+* [Stripe API](https://stripe.com/docs/api) - Stipe API reference documentation, organized around REST.
+* [Paypal API](https://developer.paypal.com/docs/api/overview/) - Paypal API reference docs, organized by REST.
+* [API Handyman](https://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/) - A website for API design.
+* [HTTPie](https://httpie.org) - User-friendly command-line HTTP client for API era. JSON support, syntax highlighting, persistent sessions, wget-like downloads, plugins, and more.
+* [APImetrics](https://apimetrics.io) - The API intelligence solution for essential API metrics & monitoring. Ranks, Rating and Performance.
+* [API Guide](https://www.moesif.com/blog/api-guide/) - Best practices and API tools to help you build awesome APIs and improve developer experience.
+* [REST API Design](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/#) - REST API Design: Filtering, Sorting, and Pagination.
+* [onelogin](https://developers.onelogin.com/api-docs/1/oauth20-tokens/generate-tokens-2) - OAuth2, Onelogin developer reference documentation.
+* [API design Blog](https://mathieu.fenniak.net) - A blog of api design.
+* [curity](https://curity.io) - IAM, identity and API security together, enabling highly scalable and secure user access to digital services. 
+* [restful api](https://restfulapi.net) - REST API tutorial, learn to create timeless REST APIs.
+* [restapi tips](https://www.vinaysahni.com) - A blog for API design and microservice architecture.
+* [restful-api-design-refer](https://github.com/aisuhua/restful-api-design-references) - A github repository collect materials for restful api design.
+* [api guidelines](https://github.com/byrondover/api-guidelines/blob/master/Guidelines.md) - An opinionated guide to designing, structuring and maintaining microservice RESTful HTTP APIs.
+* [api blueprint](https://github.com/apiaryio/api-blueprint/tree/master/examples) - Apiaryio api blueprint.
+* [Elegant APIs](https://brandur.org/elegant-apis) - A website talk about elegant api design with JSON schema.
+* [Rapid Api](https://rapidapi.com/resources) - The next-generation api platform.
+* [Insomnia](https://insomnia.rest) - Deliver high quality APIs through standards and collaboration with the API design platform.
+
 
 ## Architecture and System Design
 
