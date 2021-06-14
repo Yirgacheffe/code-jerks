@@ -119,6 +119,11 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 ## Event Stream
 
 * [Snowplow Analytics](https://github.com/snowplow) - Project on github of Snowplow Analytics.
+* [Snowplow Iglu](https://github.com/snowplow/iglu) - Iglu is schema registry repository.
+* [Flink](https://flink.apache.org/zh/) - Apache fink framework for distributed stream processing.
+* [Samza](http://samza.apache.org) - A distributed stream processing framework.
+* [UCI ML Repository](https://archive.ics.uci.edu/ml/index.php) - UCI Machine Learning Repository data sets.
+
 
 ## Blogs and Tutorials
 
