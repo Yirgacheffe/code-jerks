@@ -105,6 +105,8 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [Go & Algorithms](https://yourbasic.org) - Algorithmes to Go.
 * [Go Blog-Eli](https://eli.thegreenplace.net) - A personal blog website to learn Go programming.
 * [Go Code-Eli](https://github.com/eliben/code-for-blog) - The collects code samples from Eli's blog.
+* [ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
+* [uber ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation.
 
 ## Tools
 
