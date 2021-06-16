@@ -108,6 +108,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [Go Code-Eli](https://github.com/eliben/code-for-blog) - The collects code samples from Eli's blog.
 * [ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 * [uber ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation.
+* [go 101](https://go101.org/article/101.html) - Go 101 is a book focusing on Go syntax/semantics and all kinds of runtime related things (Go 1.17-pre ready) and tries to help gophers gain a deep and thorough understanding of Go.
 
 ## Tools
 
