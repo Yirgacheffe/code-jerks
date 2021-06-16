@@ -36,6 +36,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [awesome-servicemesh](https://github.com/servicemesher/awesome-servicemesh) - Another github page for Service Mesh.
 * [IBM Istio Demo](https://github.com/IBM/microservices-traffic-management-using-istio) - Istio traffic management demo.
 * [istio-vet](https://github.com/aspenmesh/istio-vet) - The istio-vet utility helps discover incompatible configuration of user applications and Istio components in a kubernetes cluster. 
+* [rook](https://rook.io/) - Open-Source, Cloud-Native Storage for Kubernetes, production ready management for File, Block and Object Storage.
 
 ## API Design
 
