@@ -16,6 +16,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 
 * [Let's Encrypt](https://letsencrypt.org) - Free SSL/TLS Certificates. A nonprofit Certificate Authority providing TLS certificates to 260 million websites.
 * [Web Security](https://pragmaticwebsecurity.com) - Get better at security with Pramatic Web Security.
+* [spiffe](https://spiffe.io/) - SPIFFE, the Secure Production Identity Framework For Everyone, provides a secure identity, in the form of a specially crafted X.509 certificate, to every workload in a modern production environment.
 * [Tilt](https://tilt.dev) - Productivity for teams building Kubernetes apps.
 * [Helidon](https://helidon.io) - Lightweight. Fast. Crafted for Microservices. 
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Azure architecture docs.
