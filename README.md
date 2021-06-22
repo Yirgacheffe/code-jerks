@@ -112,6 +112,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [uber ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation.
 * [go 101](https://go101.org/article/101.html) - Go 101 is a book focusing on Go syntax/semantics and all kinds of runtime related things (Go 1.17-pre ready) and tries to help gophers gain a deep and thorough understanding of Go.
 * [echo](https://echo.labstack.com/) - Golang web framework.
+* [signoz.io](https://signoz.io/blog/) - SigNoz helps developers monitor applications and troubleshoot problems in their deployed applications.
 
 ## Tools
 
