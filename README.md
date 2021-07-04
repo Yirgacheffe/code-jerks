@@ -61,6 +61,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [Elegant APIs](https://brandur.org/elegant-apis) - A website talk about elegant api design with JSON schema.
 * [Rapid Api](https://rapidapi.com/resources) - The next-generation api platform.
 * [Insomnia](https://insomnia.rest) - Deliver high quality APIs through standards and collaboration with the API design platform.
+* [apibldr](https://apibldr.com/) - A free api design tool.
 
 ## Architecture and System Design
 
