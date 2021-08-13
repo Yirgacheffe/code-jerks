@@ -150,3 +150,4 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [eventuate](https://eventuate.io) - Eventuate: an open-source platform for developing microservices.
 * [Pivotal blog](https://tanzu.vmware.com/blog) - Pivotal blog and resources for software development.
 * [flywaydb](https://flywaydb.org) - Version control for your database Robust schema evolution across all your environments. With ease, pleasure, and plain SQL.
+* [mongo_cheat_sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet/) - Quickstart for developers work with mongodb.
