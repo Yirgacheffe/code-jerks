@@ -115,6 +115,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [echo](https://echo.labstack.com/) - Golang web framework.
 * [signoz](https://signoz.io/blog/) - SigNoz helps developers monitor applications and troubleshoot problems in their deployed applications.
 * [ent](https://entgo.io/) - An entity framework for golang.
+* [golangdoc](https://golangdocs.com/) - All about golang, and examples.
 
 ## Tools
 
