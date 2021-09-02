@@ -134,6 +134,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [HUGO](https://gohugo.io) - Proto type tool, framework for building websites.
 * [ProtoPie](https://www.protopie.io/) - A powerful interactions. From the simplest of interactions to those that use Excel- grade formulas, ProtoPie can handle them all. 
 * [tryrabbitmq](http://tryrabbitmq.com/) - A RabbitMQ simulator. Cool!
+* [jwk](https://mkjwk.org/) - Simple JSON Web Key generator online.
 
 ## Event Stream
 
