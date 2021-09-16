@@ -117,6 +117,8 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [ent](https://entgo.io/) - An entity framework for golang.
 * [golangdoc](https://golangdocs.com/) - All about golang, and examples.
 * [golangrepo](https://golangrepo.com/) - Find the best go repositories for your project. Awesome~!
+* [ansi_color](https://github.com/mgutz/ansi) - Small, fast library to create ANSI colored strings and codes.
+* [shlex](https://github.com/google/shlex) - go-shlex is a simple lexer for go that supports shell-style quoting, commenting, and escaping.
 
 ## Tools
 
