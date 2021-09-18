@@ -119,6 +119,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [golangrepo](https://golangrepo.com/) - Find the best go repositories for your project. Awesome~!
 * [ansi_color](https://github.com/mgutz/ansi) - Small, fast library to create ANSI colored strings and codes.
 * [shlex](https://github.com/google/shlex) - go-shlex is a simple lexer for go that supports shell-style quoting, commenting, and escaping.
+* [reflow_text](https://github.com/muesli/reflow/) - A collection of (ANSI-sequence aware) text reflow operations & algorithms.
 
 ## Tools
 
