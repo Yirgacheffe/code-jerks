@@ -62,6 +62,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [Rapid Api](https://rapidapi.com/resources) - The next-generation api platform.
 * [Insomnia](https://insomnia.rest) - Deliver high quality APIs through standards and collaboration with the API design platform.
 * [apibldr](https://apibldr.com/) - A free api design tool.
+* [jsonapi](https://jsonapi.org/) - A specification for building apis in json.
 
 ## Architecture and System Design
 
