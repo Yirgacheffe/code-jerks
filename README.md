@@ -39,6 +39,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [istio-vet](https://github.com/aspenmesh/istio-vet) - The istio-vet utility helps discover incompatible configuration of user applications and Istio components in a kubernetes cluster. 
 * [rook](https://rook.io/) - Open-Source, Cloud-Native Storage for Kubernetes, production ready management for File, Block and Object Storage.
 * [nats](https://nats.io/) - Connective Technology for Adaptive Edge & Distributed Systems.
+* [k8s-patterns](https://github.com/k8spatterns/examples) - Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud-Native Applications".
 
 ## API Design
 
