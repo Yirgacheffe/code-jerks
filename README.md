@@ -126,6 +126,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [shlex](https://github.com/google/shlex) - go-shlex is a simple lexer for go that supports shell-style quoting, commenting, and escaping.
 * [reflow_text](https://github.com/muesli/reflow/) - A collection of (ANSI-sequence aware) text reflow operations & algorithms.
 * [golang_client_leader_election](https://github.com/kubernetes/client-go/tree/master/tools/leaderelection) - golang client for leader election.
+* [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 
 ## Tools
 
