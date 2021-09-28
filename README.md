@@ -40,6 +40,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [rook](https://rook.io/) - Open-Source, Cloud-Native Storage for Kubernetes, production ready management for File, Block and Object Storage.
 * [nats](https://nats.io/) - Connective Technology for Adaptive Edge & Distributed Systems.
 * [k8s-patterns](https://github.com/k8spatterns/examples) - Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud-Native Applications".
+* [meshery.io](https://meshery.io/) - Meshery is the open source, service mesh management plane that enables the adoption, operation, and management of any service mesh and their workloads.
 
 ## API Design
 
