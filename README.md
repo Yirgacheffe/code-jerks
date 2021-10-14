@@ -128,6 +128,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [reflow_text](https://github.com/muesli/reflow/) - A collection of (ANSI-sequence aware) text reflow operations & algorithms.
 * [golang_client_leader_election](https://github.com/kubernetes/client-go/tree/master/tools/leaderelection) - golang client for leader election.
 * [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
+* [golang_basic](https://yourbasic.org/) - Algorithms to Go, Code should be correct, clear and efficient. Prefer simple. Avoid clever.
 
 ## Tools
 
