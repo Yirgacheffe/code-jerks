@@ -130,6 +130,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 * [golang_basic](https://yourbasic.org/) - Algorithms to Go, Code should be correct, clear and efficient. Prefer simple. Avoid clever.
 * [grpc_up_and_running](https://github.com/grpc-up-and-running/samples) - grpc up and running code samples.
+* [golang_blackhat](https://github.com/blackhat-go/bhg) - examples from book 'golang blackhat'.
 
 ## Tools
 
