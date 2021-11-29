@@ -126,11 +126,12 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [ansi_color](https://github.com/mgutz/ansi) - Small, fast library to create ANSI colored strings and codes.
 * [shlex](https://github.com/google/shlex) - go-shlex is a simple lexer for go that supports shell-style quoting, commenting, and escaping.
 * [reflow_text](https://github.com/muesli/reflow/) - A collection of (ANSI-sequence aware) text reflow operations & algorithms.
-* [golang_client_leader_election](https://github.com/kubernetes/client-go/tree/master/tools/leaderelection) - golang client for leader election.
+* [golang_client_leader_election](https://github.com/kubernetes/client-go/tree/master/tools/leaderelection) - Golang client for leader election.
 * [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 * [golang_basic](https://yourbasic.org/) - Algorithms to Go, Code should be correct, clear and efficient. Prefer simple. Avoid clever.
-* [grpc_up_and_running](https://github.com/grpc-up-and-running/samples) - grpc up and running code samples.
-* [golang_blackhat](https://github.com/blackhat-go/bhg) - examples from book 'golang blackhat'.
+* [grpc_up_and_running](https://github.com/grpc-up-and-running/samples) - Grpc up and running code samples.
+* [golang_blackhat](https://github.com/blackhat-go/bhg) - Examples from book 'golang blackhat'.
+* [blog_dave](https://dave.cheney.net/) - A blog with good tips for golang programming.
 
 ## Tools
 
