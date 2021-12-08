@@ -84,6 +84,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [git-ignore](https://github.com/github/gitignore) - A collection of '.gitignore' templates.
 * [git-tips](https://github.com/git-tips/tips) - A collection of git-tips repository. 
 * [ddd_event_driven](https://verraes.net/) - A blog which contains the ddd and event driven things.
+* [domain_center](https://domaincentric.net/) - A website related DDD and event driven architecture.
 
 ## Golang
 
