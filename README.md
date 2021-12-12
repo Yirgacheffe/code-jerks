@@ -41,6 +41,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [nats](https://nats.io/) - Connective Technology for Adaptive Edge & Distributed Systems.
 * [k8s-patterns](https://github.com/k8spatterns/examples) - Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud-Native Applications".
 * [meshery.io](https://meshery.io/) - Meshery is the open source, service mesh management plane that enables the adoption, operation, and management of any service mesh and their workloads.
+* [programming-k8s](https://github.com/programming-kubernetes) - Code repository of book "Programming Kubernetes".
 
 ## API Design
 
