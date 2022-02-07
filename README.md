@@ -135,6 +135,8 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [grpc_up_and_running](https://github.com/grpc-up-and-running/samples) - Grpc up and running code samples.
 * [golang_blackhat](https://github.com/blackhat-go/bhg) - Examples from book 'golang blackhat'.
 * [blog_dave](https://dave.cheney.net/) - A blog with good tips for golang programming.
+* [go_unit_test_gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽.
+* [go_unit_test_gomock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 
 ## Tools
 
