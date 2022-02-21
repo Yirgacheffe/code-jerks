@@ -177,3 +177,4 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [Pivotal blog](https://tanzu.vmware.com/blog) - Pivotal blog and resources for software development.
 * [flywaydb](https://flywaydb.org) - Version control for your database Robust schema evolution across all your environments. With ease, pleasure, and plain SQL.
 * [mongo_cheat_sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet/) - Quickstart for developers work with mongodb.
+* [k8s_deepdive](https://www.mgasch.com/tags/kubernetes/) - Deep dive into k8s component, (etcd, listwatch pattern, operator ...)
