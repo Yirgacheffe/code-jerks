@@ -84,10 +84,11 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [ArchUnit](https://www.archunit.org) - ArchUnit is a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework. 
 * [git-ignore](https://github.com/github/gitignore) - A collection of '.gitignore' templates.
 * [git-tips](https://github.com/git-tips/tips) - A collection of git-tips repository. 
-* [ddd_event_driven](https://verraes.net/) - A blog which contains the ddd and event driven things.
 * [domain_center](https://domaincentric.net/) - A website related DDD and event driven architecture.
+* [event-sourcing](https://github.com/oskardudycz) - Personal github repo introduce the event store, event sourcing techniques.
 * [event-driven](https://event-driven.io/en/) - Practical event driven microservice architecture.
 * [event-store](https://www.eventstore.com/blog) - The blog of event store techniques, lots of good documentations.
+* [ddd_event_driven](https://verraes.net/) - A blog which contains the ddd and event driven things.
 
 ## Golang
 
