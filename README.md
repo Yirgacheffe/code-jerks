@@ -86,6 +86,8 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [git-tips](https://github.com/git-tips/tips) - A collection of git-tips repository. 
 * [ddd_event_driven](https://verraes.net/) - A blog which contains the ddd and event driven things.
 * [domain_center](https://domaincentric.net/) - A website related DDD and event driven architecture.
+* [event-driven](https://event-driven.io/en/) - Practical event driven microservice architecture.
+* [event-store](https://www.eventstore.com/blog) - The blog of event store techniques, lots of good documentations.
 
 ## Golang
 
