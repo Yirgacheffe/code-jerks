@@ -140,6 +140,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [blog_dave](https://dave.cheney.net/) - A blog with good tips for golang programming.
 * [go_unit_test_gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽.
 * [go_unit_test_gomock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
+* [go_otp](https://github.com/pquerna/otp) - One time password utility golang library.
 
 ## Tools
 
