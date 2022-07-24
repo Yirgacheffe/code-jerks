@@ -142,6 +142,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [go_unit_test_gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽.
 * [go_unit_test_gomock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 * [go_otp](https://github.com/pquerna/otp) - One time password utility golang library.
+* [go_sql_interceptors](https://github.com/ngrok/sqlmw) - An interceptors for database/sql.
 
 ## Tools
 
