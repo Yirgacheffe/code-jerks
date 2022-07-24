@@ -143,6 +143,8 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [go_unit_test_gomock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 * [go_otp](https://github.com/pquerna/otp) - One time password utility golang library.
 * [go_sql_interceptors](https://github.com/ngrok/sqlmw) - An interceptors for database/sql.
+* [go_fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
+* [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go.
 
 ## Tools
 
