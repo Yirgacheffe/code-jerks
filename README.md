@@ -146,6 +146,7 @@ This repository list awesome websites, frameworks, libraries and tools. It's rel
 * [go_fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
 * [go_json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go.
 * [go_fiber_example](https://github.com/gofiber/recipes) - The example of go fiber framework.
+* [go_multiple_libs](https://github.com/go-playground) - multiple packages, libraries and programs to further the advancement of Go, Validator, Error etc.!
 
 ## Tools
 
